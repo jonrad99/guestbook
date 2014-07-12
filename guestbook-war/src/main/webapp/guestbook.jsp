@@ -39,7 +39,7 @@
 
 <form action="/guestbook.jsp" method="get">
     <div><input type="text" name="guestbookName" value="${fn:escapeXml(guestbookName)}"/></div>
-    <div><input type="submit" value="Switch Guestbook mike"/></div>
+    <div><input type="submit" value="Switch Guestbook THURSDAY"/></div>
 </form>
 
 </body>
